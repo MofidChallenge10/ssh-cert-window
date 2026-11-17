@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">SSH Cert Window</title><desc id="desc">Inspect OpenSSH certificate validity, principals, and expiry risk using ssh-keygen.</desc>
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#202d4a"/></linearGradient><linearGradient id="a"><stop stop-color="#4fd1c5"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
+<rect width="1200" height="240" rx="28" fill="url(#g)"/>
+<circle cx="1030" cy="75" r="90" fill="#60a5fa" opacity=".12"><animate attributeName="r" values="76;100;76" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="1080" cy="190" r="55" fill="#4fd1c5" opacity=".12"><animate attributeName="cy" values="190;160;190" dur="6s" repeatCount="indefinite"/></circle>
+<path d="M0 190 Q250 150 480 195 T960 180 T1200 190" fill="none" stroke="url(#a)" stroke-width="3" opacity=".45"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 190 Q250 150 480 195 T960 180 T1200 190;M0 180 Q250 220 480 170 T960 205 T1200 180;M0 190 Q250 150 480 195 T960 180 T1200 190"/></path>
+<text x="64" y="104" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="54" font-weight="700">SSH Cert Window</text>
+<text x="68" y="151" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="23">Inspect OpenSSH certificate validity, principals, and expiry risk using ssh-keygen.</text>
+<rect x="68" y="178" width="160" height="5" rx="2.5" fill="url(#a)"><animate attributeName="width" values="80;160;80" dur="4s" repeatCount="indefinite"/></rect>
+</svg>

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "ssh-cert-window"
+version = "1.0.0"
+description = "Audit OpenSSH certificate validity windows"
+requires-python = ">=3.10"
+[project.scripts]
+ssh-cert-window = "ssh_cert_window.cli:main"
+[tool.setuptools.packages.find]
+where = ["src"]

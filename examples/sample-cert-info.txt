@@ -1,0 +1,7 @@
+Type: ssh-ed25519-cert-v01@openssh.com user certificate
+Key ID: "deploy-readonly"
+Serial: 42
+Valid: from 2026-11-01T00:00:00 to 2027-01-01T00:00:00
+Principals:
+        deploy
+        release
